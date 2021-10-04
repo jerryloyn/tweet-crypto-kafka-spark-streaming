@@ -4,7 +4,7 @@ This project is to demonstrate how to
 - analyze the data with Apache Spark,
 - and visualize the real-time crypto hashtag count in Jupyter Notebook. 
 
-The setup of those tools is quite complicated so docker is used to spin up all the applicaions
+The setup of those tools is quite complicated so docker is used to spin up all the applications
 
 ## Installation Guide
 1. Clone this project
